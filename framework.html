@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' href='framework-styles.css'>
+</head>
+<body>
+    <style type = 'text/css'>
+         div {
+             border: 1px solid black;
+         }
+         div {
+             margin: -1px;
+             flex-wrap: wrap;
+         }
+    </style>
+    <div class = 'container' style = 'background-color: aquamarine'>
+        Табличка
+        <div class= 'row margin-16 clearfix'>
+            <div class = 'col-3' style = 'background-color: red'>
+                1/4 ширины
+            </div>
+            <div class = 'col-6' style = 'background-color: yellow'>
+                1/2 ширины
+            </div>
+            <div class = 'col-3' style = 'background-color: green'>
+                1/2 ширины
+            </div>
+        </div>
+    </div>
+
+    <div class = 'container-fluid' style = 'background-color: darkgoldenrod'>
+            Распределение флекс-элементов
+            <div class = 'row justify-content-start'>
+              <div class = 'col-4 padding-16'>
+                по умолчанию
+              </div>
+              <div class = 'col-4 padding-40'>
+                с паддингами
+              </div>
+            </div>
+            <div class = 'row justify-content-center'>
+              <div class = 'col-4 margin-48'>
+                по центру
+              </div>
+              <div class = 'col-4 margin-8'>
+                с маргинами
+              </div>
+            </div>
+            <div class = 'row justify-content-end'>
+              <div class = 'col-4 text-center'>
+                в конце
+              </div>
+              <div class = 'col-4 text-right'>
+                с выравниванием текста
+              </div>
+            </div>
+            <div class = 'row justify-content-around'>
+              <div class = 'col-4'>
+                по ширине
+              </div>
+              <div class = 'col-4'>
+                с пробелами
+              </div>
+            </div>
+            <div class = 'row justify-content-between'>
+              <div class = 'col-4'>
+                по ширине
+              </div>
+              <div class = 'col-4'>
+                без пробелов
+              </div>
+            </div>
+          </div>
+</body>
+</html>
