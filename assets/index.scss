@@ -1,0 +1,19 @@
+@import './helpers/index';
+@import './global/index';
+@import './elements/index';
+@import './components/index';
+
+.header {
+    padding: 8px;
+    width: 100%;
+    @include font-size-height-align(16px, 24px, center);
+    background-color: aquamarine;
+}
+
+.footer {
+    padding: 8px;
+    width: 100%;
+    @include font-size-height-align(16px, 16px, center);
+    background-color: darkolivegreen;
+}
+

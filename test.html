@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+ 
+<html>
+    
+<head>       
+<title>Введение в SASS</title>
+<link href="index.css" rel="stylesheet">
+</head>
+ 
+<body>
+ 
+<header class = 'header bordered'>
+<h1>Простой Sass-документ</h1>
+<h2>Статья для веб-дизайнеров и разработчиков</h2>
+</header>
+
+<main class = 'container bordered'>
+ 
+<section class = 'row bordered'>
+    <div class = 'col-4 justify-content-between bordered'>
+            <p class = 'bordered'> Простой текстовый параграф</p>
+            <p class = 'bordered'> Простой текстовый параграф</p>
+    </div>
+<div class = 'col-3 justify-content-center bordered'>
+    <p class = 'bordered'> Еще один параграф с текстом</p>
+    <p class = 'bordered'> Еще один параграф с текстом</p>
+</div>
+<div class = 'col-5 justify-content-around bordered'>
+    <button class = 'btn-small btn-warning'>warning!</button>
+    <button class = 'btn bordered'>Кнопка</button>
+    <button class = 'btn-big btn-disabled'>Кнопка2</button>
+</div>
+</section>
+ 
+ 
+<section class = 'row bordered'>
+    <div class = 'col-6 bordered justify-content-center align-items-center'>
+            <ul>
+                <li>1й элемент списка</li>
+                <li>2й элемент списка </li>
+                <li>3й элемент списка </li>
+            </ul>
+    </div>
+    <div class = 'col-6 bordered'>
+            <form class = 'bordered'>
+                <label><p>Поле формы</p>
+                    <input type = 'text' placeholder = 'текстовое поле'>
+                </label>
+                <label><p>Поле формы с паролем</p>
+                        <input type = 'password' placeholder = 'пароль'>
+                </label>
+                <label><p>Недоступное поле формы</p>
+                        <input disabled class = 'input-disabled' type = 'text' placeholder = '=('>
+                </label>
+                <label><p>Поле формы с ошибкой</p>
+                        <input class = 'input-error' type = 'text' placeholder = 'ошибка!'>
+                </label>
+                <label><p>Поле формы с иконкой</p>
+                    <input class = 'input-iconned' type = 'text' placeholder = 'у меня не получилось('>
+            </label>
+                <div style = 'text-align: right'>
+                    <button class = 'btn-form'>Отправка</button>
+                </div>
+                
+            </form>
+    </div>
+</section>
+</main>
+
+<footer class = 'footer bordered'>
+    <p>Это отличный футер!</p>
+</footer>
+ 
+</body>
+ 
+</html>
