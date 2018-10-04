@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5bb6107dcb62b31ca9df4ebc",
+    "index": 0,
+    "guid": "8a032e6c-6e5a-486d-a0cf-f742e363bc5c",
+    "isActive": true,
+    "balance": "$3,027.75",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "green",
+    "name": "Green Hardin",
+    "gender": "male",
+    "company": "CYTREX",
+    "email": "greenhardin@cytrex.com",
+    "phone": "+1 (898) 546-2346",
+    "address": "383 Furman Avenue, Herlong, Wyoming, 2497",
+    "about": "Quis officia reprehenderit ipsum incididunt exercitation veniam in laborum minim esse eu minim dolor mollit. Pariatur consequat nisi est dolore consectetur. Nulla reprehenderit veniam fugiat amet anim eiusmod nisi tempor Lorem cupidatat esse. Dolore qui eiusmod et ad aute exercitation aliqua proident cupidatat nulla.\r\n",
+    "registered": "2017-09-06T12:55:48 -03:00",
+    "latitude": -25.795723,
+    "longitude": -84.764987,
+    "tags": [
+      "duis",
+      "aliqua",
+      "cupidatat",
+      "et",
+      "minim",
+      "in",
+      "aliqua"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Owen Patrick"
+      },
+      {
+        "id": 1,
+        "name": "Cross Gray"
+      },
+      {
+        "id": 2,
+        "name": "Corrine Craig"
+      }
+    ],
+    "greeting": "Hello, Green Hardin! You have 3 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5bb6107d075cbdee5f991f60",
+    "index": 1,
+    "guid": "aace6771-4811-46fb-b8fa-551f8b8ebffe",
+    "isActive": true,
+    "balance": "$3,045.61",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": "Jacqueline Hines",
+    "gender": "female",
+    "company": "HOUSEDOWN",
+    "email": "jacquelinehines@housedown.com",
+    "phone": "+1 (855) 540-3667",
+    "address": "852 Grand Avenue, Trucksville, Rhode Island, 9055",
+    "about": "Reprehenderit quis consequat labore laborum aute. Labore sit qui ipsum ea excepteur officia consequat. Veniam commodo sunt excepteur excepteur excepteur ipsum occaecat consequat id mollit dolore duis Lorem. Adipisicing adipisicing nostrud aute cillum. In velit ex ullamco nulla dolor nisi.\r\n",
+    "registered": "2015-01-23T08:30:30 -03:00",
+    "latitude": 84.642815,
+    "longitude": 93.417006,
+    "tags": [
+      "anim",
+      "enim",
+      "adipisicing",
+      "laboris",
+      "elit",
+      "cupidatat",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Charles Forbes"
+      },
+      {
+        "id": 1,
+        "name": "Kayla Willis"
+      },
+      {
+        "id": 2,
+        "name": "Frederick Clemons"
+      }
+    ],
+    "greeting": "Hello, Jacqueline Hines! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5bb6107d06d127887704e1c6",
+    "index": 2,
+    "guid": "eb16a663-11c7-43c2-86e0-7c59555eda86",
+    "isActive": false,
+    "balance": "$2,564.42",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Kasey Baker",
+    "gender": "female",
+    "company": "ZINCA",
+    "email": "kaseybaker@zinca.com",
+    "phone": "+1 (858) 514-3829",
+    "address": "884 Moore Street, Coloma, Oregon, 6446",
+    "about": "Et magna esse ipsum mollit exercitation sunt laborum. Sit ad id excepteur excepteur pariatur. Incididunt adipisicing veniam consectetur enim ut eiusmod.\r\n",
+    "registered": "2014-10-06T09:43:38 -04:00",
+    "latitude": -33.408449,
+    "longitude": -119.78119,
+    "tags": [
+      "laborum",
+      "esse",
+      "proident",
+      "qui",
+      "ea",
+      "nisi",
+      "dolor"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Eva Nicholson"
+      },
+      {
+        "id": 1,
+        "name": "Gutierrez Hudson"
+      },
+      {
+        "id": 2,
+        "name": "Allie Hendricks"
+      }
+    ],
+    "greeting": "Hello, Kasey Baker! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5bb6107dbb17bcb75b54048e",
+    "index": 3,
+    "guid": "00cac972-55d0-42df-b899-03382d2d20eb",
+    "isActive": true,
+    "balance": "$2,471.90",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": "Beulah Day",
+    "gender": "female",
+    "company": "KIDGREASE",
+    "email": "beulahday@kidgrease.com",
+    "phone": "+1 (945) 584-2079",
+    "address": "595 Murdock Court, Conestoga, Delaware, 4693",
+    "about": "Sit elit officia culpa excepteur proident voluptate ut aute tempor anim anim. Do anim commodo consectetur veniam aliquip excepteur nisi dolor ullamco officia nulla officia incididunt nulla. Ipsum et ipsum occaecat non dolor dolor sit duis quis et voluptate. Velit labore sint consequat ad incididunt amet mollit duis esse ea. Cillum ea nisi aliquip voluptate dolore ullamco consequat consectetur laborum ad laboris duis. Exercitation id sunt do reprehenderit ullamco aute quis cupidatat. Commodo ad excepteur eiusmod deserunt.\r\n",
+    "registered": "2018-06-27T03:59:00 -03:00",
+    "latitude": -79.952365,
+    "longitude": -43.304642,
+    "tags": [
+      "ea",
+      "nostrud",
+      "ad",
+      "ea",
+      "ad",
+      "tempor",
+      "sint"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Casandra Myers"
+      },
+      {
+        "id": 1,
+        "name": "Sears Russell"
+      },
+      {
+        "id": 2,
+        "name": "Olga Mclaughlin"
+      }
+    ],
+    "greeting": "Hello, Beulah Day! You have 5 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5bb6107db628aac4b6ecbb82",
+    "index": 4,
+    "guid": "33e01cc2-e4ef-454f-ba55-596a0f4f8df7",
+    "isActive": false,
+    "balance": "$2,658.55",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Booker Brady",
+    "gender": "male",
+    "company": "RADIANTIX",
+    "email": "bookerbrady@radiantix.com",
+    "phone": "+1 (995) 582-3674",
+    "address": "984 Albany Avenue, Villarreal, Mississippi, 4292",
+    "about": "Occaecat id aliqua ex qui do nisi nisi. Minim excepteur pariatur eiusmod aute deserunt. Ex esse consectetur sint duis aliqua et irure consectetur labore incididunt est duis eu. Elit id velit exercitation mollit. Elit fugiat tempor id nisi cillum. Sunt et do Lorem aliquip excepteur.\r\n",
+    "registered": "2015-02-20T10:51:55 -03:00",
+    "latitude": -73.08206,
+    "longitude": 73.844427,
+    "tags": [
+      "eu",
+      "ad",
+      "sint",
+      "qui",
+      "minim",
+      "veniam",
+      "nisi"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kristine Doyle"
+      },
+      {
+        "id": 1,
+        "name": "Suzanne Delacruz"
+      },
+      {
+        "id": 2,
+        "name": "Berger Conley"
+      }
+    ],
+    "greeting": "Hello, Booker Brady! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
